@@ -13,7 +13,7 @@
 
     HTML
     CSS
-    JS BASICS
+    JS
 
 # New Learning
 
